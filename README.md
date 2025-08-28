@@ -39,4 +39,4 @@ Meelad Raza
 ## 🏷️ Tags  
 `#JavaScript` `#Scope` `#LearningJavaScript` `#GlobalScope` `#FunctionScope` `#BlockScope` `#MERNStackJourney`
 
-    console.log("My Name Is " + myName);  // Access
+
